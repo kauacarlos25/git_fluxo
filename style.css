@@ -2,3 +2,7 @@ body{
     background-color: blue;
     color: whitesmoke;
 }
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
